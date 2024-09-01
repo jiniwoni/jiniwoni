@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, there👋 
+## I'm currently working as a network engineer✨
+## I'm currently learning a web development🌱
 
 <!--
 **jiniwoni/jiniwoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
